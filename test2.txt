@@ -1,4 +1,0 @@
-
-This is 2nd file  file.
-This is edited file.
-This is re-modified file.
