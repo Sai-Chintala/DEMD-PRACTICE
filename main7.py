@@ -14,6 +14,7 @@ def print_name(name):
 def hello():
     stud_name = request.args.get("StudentName")
     numb = request.args.get("RollNo")
+    
     return f"Student Name is {stud_name} and Roll Number is {numb}"
 
 if __name__ == "__main__":
