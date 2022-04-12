@@ -1,0 +1,200 @@
+llohi@Lohith MINGW64 ~
+$ history
+    1  ls
+    2  cd C:\Users\llohi\OneDrive\Desktop\DEMD
+    3  cd
+    4  ls
+    5  cd OneDrive/Desktop/DEMD/
+    6  ls
+    7  git --version
+    8  ssh-keygen -t ed25519 -c "llohith77@gmail.com"
+    9  ssh-keygen -t ed25519 -C "llohith77@gmail.com"
+   10  ssh-add ~/.ssh/id_ed25519
+   11  ssh-add -k ~/.ssh/id_ed25519
+   12  ssh-add ~/.ssh/id_ed25519
+   13  eval `ssh-agent -s`
+   14  ssh-add ~/.ssh/id_ed25519
+   15  cat ~/.ssh/id_ed25519.pub
+   16  git@github.com:Lohith-Boddu/de_mar_22.git
+   17  git@github.com:Lohith-Boddu/de_mar_22.git
+   18  git clone git@github.com:Lohith-Boddu/de_mar_22.git
+   19  git clone git@github.com:Lohith-Boddu/de_mar_22.git
+   20  ls
+   21  cd de_mar_22/
+   22  ls
+   23  cd
+   24  pwd
+   25  cd ~/OneDrive/Desktop/DEMD
+   26  ls
+   27  cd de_mar_22/
+   28  ls
+   29  git status
+   30  touch file1.txt
+   31  ls
+   32  touch rm test_file.txt
+   33  ls
+   34  rm rm
+   35  rm test_file.txt
+   36  git status
+   37  git add .
+   38  git status
+   39  git commit -m "first commit"
+   40  git status
+   41  git commit -m "first commit"
+   42  git config --global user.email "llohith77@gmail.com"
+   43  git commit -m "first commit"
+   44  git status
+   45  git push -u origin main
+   46  git status
+   47  git pull
+   48  git log
+   49  git status
+   50  ls
+   51  nano file1.txt
+   52  git status
+   53  cat file1.txt
+   54  touch file2.txt
+   55  git status
+   56  git add file1.txt
+   57  git status
+   58  git add file2.txt
+   59  git status
+   60  history
+   61  ls
+   62  cd OneDrive/Desktop/DEMD/
+   63  pwd
+   64  ls
+   65  git status
+   66  git --status
+   67  cd de_mar_22/
+   68  git status
+   69  touch lohith.txt
+   70  ls
+   71  git status
+   72  touch lohith2.txt
+   73  git status
+   74  git add .
+   75  git status
+   76  touch test1.text test2.txt
+   77  ls
+   78  git status
+   79  git add test2.txt
+   80  git status
+   81  git commit -m "second commit"
+   82  git push -u origin main
+   83  git status
+   84  ls
+   85  vi file1.txt
+   86  git status
+   87  git diff
+   88  git add .
+   89  git status
+   90  git commit -m "third commit"
+   91  git push -u origin main
+   92  git status
+   93  ls
+   94  vi test1.text
+   95  cat test1.text
+   96  git status
+   97  git diff test1.text
+   98  git add .
+   99  git status
+  100  git commit -m "third2 commit"
+  101  git push -u origin main
+  102  vi test1.text
+  103  cat test1.text
+  104  git status
+  105  git diff test1.text
+  106  git add .
+  107  git commit -m "third3 commit"
+  108  git push -u origin main
+  109  git status
+  110  ls
+  111  vi test3.txt
+  112  ls
+  113  vi test3.txt
+  114  cat test3.txt
+  115  git status
+  116  git diff text3.txt
+  117  git diff test3.txt
+  118  git add .
+  119  git commit -m "third4 commit"
+  120  git push -u origin main
+  121  git status
+  122  vi test3.txt
+  123  cat test3.txt
+  124  git status
+  125  git diff test3.txt
+  126  git add .
+  127  git commit -m "third6 commit"
+  128  git push -u origin main
+  129  history
+  130  ls
+  131  cd OneDrive/Desktop/DEMD
+  132  ls
+  133  ls
+  134  cd de_mar_22/
+  135  ls
+  136  git status
+  137  touch manoj.txt
+  138  ls
+  139  git status
+  140  touch manoj2.txt
+  141  git status
+  142  git add .
+  143  git status
+  144  git commit -m "manoj files"
+  145  git push -u origin main
+  146  ls
+  147  vi manoj.txt
+  148  cat manoj.txt
+  149  git status
+  150  git diff manoj.txt
+  151  git add .
+  152  git commit -m "manoj files1"
+  153  git push -u origin main
+  154  git status
+  155  vi manoj.txt
+  156  git status
+  157  git diff manoj.txt
+  158  git add .
+  159  git commit -m "manoj files2"
+  160  git push -u origin main
+  161  history
+  162  history
+
+git branch feature1
+ git branch -a
+git checkout feature1
+git status
+touch feature1.txt
+git status
+git add .
+git commit  -m "new commit in the branch"
+git push -u origin feature1
+ git checkout main
+ls
+
+
+git reset --hard c518764826102178404cd7127788cd70e1d96c70
+
+ vi file2.txt
+  161  git status
+  162  git add .
+  163  git commit -m "updated existing files"
+  164  git push -u origin feature2
+  165  git status
+  166  git stash list
+  167  ls
+  168  git stash pop
+  169  ls
+  170  git status
+  171  vi file3.txt
+  172  git status
+  173  git add .
+  174  git status
+  175  git commit -m "pushing stash file"
+  176  git status
+  177  git push -u origin feature2
+
+
